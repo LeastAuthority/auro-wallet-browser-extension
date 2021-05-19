@@ -202,5 +202,5 @@
   "watchLabel": "观察",
   "importEntry": "导入",
   "exportCSV": "导出交易记录",
-  "ledgerUserTip":"提示: 如果想要使用Ledger钱包，你需要先创建钱包。"
+  "ledgerUserTip":"提示: 如果想要使用Ledger钱包，需要先[创建钱包]"
 }
